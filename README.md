@@ -1,25 +1,28 @@
-<!--
-## Welcome 👋 I'm Erick
+## Hi, 👋 I'm Erick Odhiambo
 
-I turn messy data into clear stories and actionable decisions. My focus is on **SQL**, **Python**, **Power BI** for end‑to‑end analytics: from querying and cleaning data to building dashboards and presenting insights.
+**Data Analyst | SQL * Power BI * Python**
+📍 Nairobi, Kenya  
+📧 [erickpodhiambo@gmail.com] · [LinkedIn](https://www.linkedin.com/in/erick-odhiambo-okite/) <!-- · [Portfolio](https://your-portfolio-site-or-notion) -->
 
+I turn messy data into clear stories and actionable decisions. My focus is on **SQL**, **Python**, and **Power BI** for end‑to‑end analytics: from querying and cleaning data to building dashboards and presenting insights.
 
+---
 
-Here are some ideas to get you started:
+## 🚀 What I do
 
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- **Query & model data** with SQL (joins, aggregations, window functions, CTEs)
+- **Clean and transform** datasets using Python (pandas) and SQL
+- **Build interactive dashboards** in Power BI (DAX, data modelling, performance tuning)
+- **Translate business questions** into metrics, visualizations, and recommendations
 
+I'm especially interested in roles where I can work closely with business teams to define KPIs, track performance, and uncover growth opportunities.
 
+---
+## 🧠 Learning & Certifications
 
-
-
+- **DataCamp - Associate Data Analyst in SQL (DA101)**
+  - Focused on: data extraction, joining and aggregation, cleaning, data quality, metrics, visualization, and hypothesis testing
+  - This repo includes
 ---
 
 ## 🚀 What I want to do
@@ -33,12 +36,7 @@ I’m especially interested in roles where I can work closely with business team
 
 ---
 
-## 🧠 Learning & Certifications
-
-- **DataCamp – Associate Data Analyst in SQL (DA101)**  
-  - Focused on: data extraction, joining & aggregation, cleaning, data quality, metrics, visualization, and hypothesis testing  
-  - This repo includes my code, theory notes, and screenshots from the track  
-- Currently deepening skills in: advanced DAX, data modeling, and Python for analytics automation  
+  
 
 ---
 
@@ -88,10 +86,21 @@ If you’re hiring or working on interesting data problems in Kenya (or remote),
 
 ## 📬 Let’s connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-- 📧 [your.email@example.com]  
-- 🌐 [Portfolio / Notion / Personal site](link)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/erick-odhiambo-okite/)  
+- +254 792 487722
+- 📧 [erickpodhiambo@gmail.com]  
+<!-- 🌐 [Portfolio / Notion / Personal site](link) -->  
 
 Thanks for stopping by!
 
+<!-- 
+Here are some ideas to get you started:
+- 
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 -->
