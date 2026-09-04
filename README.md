@@ -22,22 +22,9 @@ I'm especially interested in roles where I can work closely with business teams 
 
 - **DataCamp - Associate Data Analyst in SQL (DA101)**
   - Focused on: data extraction, joining and aggregation, cleaning, data quality, metrics, visualization, and hypothesis testing
-  - This repo includes
----
-
-## 🚀 What I want to do
-
-- **Query & model data** with SQL (joins, aggregations, window functions, CTEs)  
-- **Clean & transform** datasets using Python (pandas) and SQL  
-- **Build interactive dashboards** in Power BI (DAX, data modeling, performance tuning)  
-- **Translate business questions** into metrics, visualizations, and recommendations  
-
-I’m especially interested in roles where I can work closely with business teams to define KPIs, track performance, and uncover growth opportunities.
-
----
-
-  
-
+  - This repo includes my code, theory notes, and screenshots from the track
+  - Currently deepening skills in: advanced DAX, data modelling, and Python for analytics automation
+    
 ---
 
 ## 📁 Featured Projects
@@ -65,9 +52,9 @@ I’m especially interested in roles where I can work closely with business team
 | Category      | Tools & Languages                                      |
 |---------------|--------------------------------------------------------|
 | **Languages** | SQL, Python                                            |
-| **BI & Viz**  | Power BI, (Tableau basics)                             |
+| **BI & Viz**  | Power BI                                               |
 | **Data**      | PostgreSQL / MySQL / SQL Server, pandas, NumPy         |
-| **Tools**     | Git/GitHub, Excel, Jupyter, VS Code                    |
+| **Tools**     | VS Code, Jupyter, Git/GitHub, Excel                    |
 
 ---
 
