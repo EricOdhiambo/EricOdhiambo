@@ -36,7 +36,7 @@ I'm especially interested in roles where I can work closely with business teams 
 - Built an interactive Power BI dashboard for sales trends, product profitability, and customer segments  
 🔗 [Repo](link-to-repo) · 📊 [Dashboard preview](link-to-image-or-pbix)
 
-### 🇰🇪 Kenya Data Job Market Skills Dashboard  
+### Data Jobs Market Skills Dashboard  
 **Tools:** Python • SQL • Power BI  
 - Collected and standardized job postings data for data roles in Kenya  
 - Analyzed skill demand (SQL, Power BI, Python) and salary ranges  
@@ -79,15 +79,3 @@ If you’re hiring or working on interesting data problems in Kenya (or remote),
 <!-- 🌐 [Portfolio / Notion / Personal site](link) -->  
 
 Thanks for stopping by!
-
-<!-- 
-Here are some ideas to get you started:
-- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
