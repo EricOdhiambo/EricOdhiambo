@@ -1,8 +1,9 @@
 ## Hi, 👋 I'm Erick Odhiambo
 
-**Data Analyst | SQL * Power BI * Python**
+**Data Analyst | SQL · Power BI · Python**
+
 📍 Nairobi, Kenya  
-📧 [erickpodhiambo@gmail.com] · [LinkedIn](https://www.linkedin.com/in/erick-odhiambo-okite/) <!-- · [Portfolio](https://your-portfolio-site-or-notion) -->
++254 792 487722 · 📧 [erickpodhiambo@gmail.com] · [LinkedIn](https://www.linkedin.com/in/erick-odhiambo-okite/) <!-- · [Portfolio](https://your-portfolio-site-or-notion) -->
 
 I turn messy data into clear stories and actionable decisions. My focus is on **SQL**, **Python**, and **Power BI** for end‑to‑end analytics: from querying and cleaning data to building dashboards and presenting insights.
 
