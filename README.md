@@ -1,6 +1,6 @@
 ## Hi, 👋 I'm Erick Odhiambo
 
-**Data Analyst | SQL · Power BI · Python**
+**Data Analyst | SQL · Python · Power BI**
 
 📍 Nairobi, Kenya  
 +254 792 487722 · 📧 [erickpodhiambo@gmail.com] · [LinkedIn](https://www.linkedin.com/in/erick-odhiambo-okite/) <!-- · [Portfolio](https://your-portfolio-site-or-notion) -->
