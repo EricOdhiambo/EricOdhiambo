@@ -21,22 +21,25 @@ I'm especially interested in roles where I can work closely with business teams 
 ---
 ## 🧠 Learning & Certifications
 
+- **BSc. Computer Science - Jomo Kenyatta University of Agriculture and Technology**
+  - Data and AI
 - **DataCamp - Associate Data Analyst in SQL (DA101)**
   - Focused on: data extraction, joining and aggregation, cleaning, data quality, metrics, visualization, and hypothesis testing
-  - This repo includes my code, theory notes, and screenshots from the track
+  - This [repo](https://github.com/EricOdhiambo/Associate-Data-Analyst-in-SQL-Track-DataCamp) includes my code, theory notes, and screenshots from the track
   - Currently deepening skills in: advanced DAX, data modelling, and Python for analytics automation
     
 ---
 
 ## 📁 Featured Projects
 
-### 🛒 E‑Commerce Sales & Customer Analytics  
-**Tools:** SQL • Python (pandas) • Power BI  
-- Cleaned and transformed raw order data with Python  
-- Modeled data in SQL and computed revenue, margin, and customer metrics (RFM, cohort retention)  
-- Built an interactive Power BI dashboard for sales trends, product profitability, and customer segments  
-🔗 [Repo](link-to-repo) · 📊 [Dashboard preview](link-to-image-or-pbix)
+### 🛒 Customers Analytics using RFM Strategy   
+**Tools:** Postgres SQL • SQL • Power BI    
+- Modelled and transformed data in SQL and computed customers' scores for recency of their purchase, frequency of their purchase, and monetary value of their purchase - RFM scores
+- Grouped customers into different groups/segments like ‘Loyal VIPs’, ‘Potential Loyalists’, ‘Requires Attention’, and ‘At Risk’ using the RFM scores targeting customer retention strategy and customer analytics
+- Built an interactive Power BI dashboard for customer groups/segments and analysis  
+🔗 [Repo](https://github.com/EricOdhiambo/Customers-Analytics-using-RFM-Strategy) · 📊 [Dashboard preview](link-to-image-or-pbix)
 
+-- In progress
 ### Data Jobs Market Skills Dashboard  
 **Tools:** Python • SQL • Power BI  
 - Collected and standardized job postings data for data roles in Kenya  
@@ -61,7 +64,7 @@ I'm especially interested in roles where I can work closely with business teams 
 
 ## 📈 What I’m looking for
 
-- **Full‑time Data Analyst / BI Analyst / Reporting Analyst** roles  
+- **Full‑time Data Analyst / Data Scientist / Data Engineer** roles  
 - Open to **12+ month contracts** with real analytics impact  
 - Prefer teams where I can:  
   - Own dashboards and reports end‑to‑end  
