@@ -1,85 +1,149 @@
-## Hi, 👋 I'm Erick Odhiambo
+# Hi, I'm Erick Odhiambo 👋
 
-**Data Analyst | SQL · Python · Power BI**
+**IT Professional | Aspiring Data Engineer | SQL · Python · PostgreSQL**
 
 📍 Nairobi, Kenya  
-+254 792 487722 · 📧 [erickpodhiambo@gmail.com] · [LinkedIn](https://www.linkedin.com/in/erick-odhiambo-okite/) <!-- · [Portfolio](https://your-portfolio-site-or-notion) -->
+📧 [erickpodhiambo@gmail.com](mailto:erickpodhiambo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/erick-odhiambo-okite/)
 
-I turn messy data into clear stories and actionable decisions. My focus is on **SQL**, **Python**, and **Power BI** for end‑to‑end analytics: from querying and cleaning data to building dashboards and presenting insights.
+I'm an IT professional with a Bachelor's degree in Computer Science and experience in IT service support, technical troubleshooting and operations.
+
+I'm transitioning into **Data Engineering**, with a focus on building reliable data pipelines, working with relational databases, processing data and implementing data-quality checks.
+
+My background includes hands-on SQL practice, PostgreSQL database development and exposure to Python-based data processing and reporting. I'm strengthening these foundations through independent projects and practical learning.
+
+---
+
+## 🚀 Technical Focus
+
+- **SQL & Databases:** Write queries involving joins, aggregations, CTEs and window functions; work with relational databases using PostgreSQL.
+- **Python:** Developing practical programming skills for data extraction, transformation and automation.
+- **Data Engineering:** Learning and building with ETL workflows, data ingestion, data transformation, data modelling and data-quality validation.
+- **Data Processing:** Working with structured datasets and exploring repeatable data-processing workflows.
+- **IT Operations:** Experience in technical troubleshooting, incident management, root cause analysis and IT governance.
 
 ---
 
-## 🚀 What I do
+## 🧠 Education & Learning
 
-- **Query & model data** with SQL (joins, aggregations, window functions, CTEs)
-- **Clean and transform** datasets using Python (pandas) and SQL
-- **Build interactive dashboards** in Power BI (DAX, data modelling, performance tuning)
-- **Translate business questions** into metrics, visualizations, and recommendations
+**Bachelor of Science in Computer Science**  
+Jomo Kenyatta University of Agriculture and Technology (2017–2022)
 
-I'm especially interested in roles where I can work closely with business teams to define KPIs, track performance, and uncover growth opportunities.
+**DataCamp – Associate Data Analyst in SQL learning track**
+- Completed the learning track.
+- Practised SQL querying, joins, aggregations, data cleaning and analytical techniques.
+- [View my SQL learning repository](https://github.com/EricOdhiambo/Associate-Data-Analyst-in-SQL-Track-DataCamp)
 
----
-## 🧠 Learning & Certifications
+**Current Learning Focus**
+- Python for Data Engineering.
+- Building and testing ETL pipelines.
+- PostgreSQL and database design.
+- Incremental data loading and data quality.
+- Data pipeline orchestration and cloud data platforms.
 
-- **BSc. Computer Science - Jomo Kenyatta University of Agriculture and Technology**
-  - Data and AI
-- **DataCamp - Associate Data Analyst in SQL (DA101)**
-  - Focused on: data extraction, joining and aggregation, cleaning, data quality, metrics, visualization, and hypothesis testing
-  - This [repo](https://github.com/EricOdhiambo/Associate-Data-Analyst-in-SQL-Track-DataCamp) includes my code, theory notes, and screenshots from the track
-  - Currently deepening skills in: advanced DAX, data modelling, and Python for analytics automation
-    
 ---
 
 ## 📁 Featured Projects
 
-### 🛒 Customers Analytics using RFM Strategy   
-**Tools:** Postgres SQL • SQL • Power BI    
-- Modelled and transformed data in SQL and computed customers' scores for recency of their purchase, frequency of their purchase, and monetary value of their purchase - RFM scores
-- Grouped customers into different groups/segments like ‘Loyal VIPs’, ‘Potential Loyalists’, ‘Requires Attention’, and ‘At Risk’ using the RFM scores targeting customer retention strategy and customer analytics
-- Built an interactive Power BI dashboard for customer groups/segments and analysis  
-🔗 [Repo](https://github.com/EricOdhiambo/Customers-Analytics-using-RFM-Strategy) · 📊 [Dashboard preview](link-to-image-or-pbix)
+### 1. SQL Practice for Data Engineering
 
--- In progress
-### Data Jobs Market Skills Dashboard  
-**Tools:** Python • SQL • Power BI  
-- Collected and standardized job postings data for data roles in Kenya  
-- Analyzed skill demand (SQL, Power BI, Python) and salary ranges  
-- Visualized trending skills, top employers, and salary bands by location  
-🔗 [Repo](link-to-repo) · 📊 [Dashboard preview](link-to-image-or-pbix)
+**Technologies:** PostgreSQL · SQL · Supabase · GitHub
 
-*(Replace with your actual projects and links.)*
+A hands-on SQL and relational database project using synthetic retail data.
+
+- Created and queried relational database tables.
+- Practised joins, aggregations, subqueries and window functions.
+- Implemented data-quality checks for missing values, duplicate records and invalid references.
+- Documented the database structure, relationships and data dictionary.
+- Developed SQL scripts for repeatable database setup and validation.
+
+🔗 [View Repository](https://github.com/EricOdhiambo/SQL-Practice-for-Data-Engineering)
+
+### 2. Cloud Services Data Engineering Pipeline
+
+**Planned technologies:** Python · Pandas · PostgreSQL · SQL · pytest
+
+An independent project to develop a repeatable data pipeline for processing synthetic cloud services usage, cost, incident and performance data.
+
+Planned implementation:
+- Data extraction and transformation using Python.
+- Loading structured data into PostgreSQL.
+- Data-quality validation and error handling.
+- SQL transformations and reporting-ready datasets.
+- Automated testing and repeatable pipeline execution.
+
+*Project in planning – implementation and documentation will be added as development progresses.*
+
+### 3. Cloud Service Reliability & Incident Intelligence Pipeline
+
+**Planned technologies:** Python · APIs · PostgreSQL · SQL · Git
+
+An independent project focused on collecting and analysing publicly available cloud service incident information.
+
+Planned implementation:
+- Ingest incident and service-status data from public cloud provider sources.
+- Normalize data from different providers.
+- Store historical incident records in PostgreSQL.
+- Implement deduplication, incremental loading and data-quality checks.
+- Develop analytical queries for cloud service reliability and incident trends.
+
+*Project in planning – implementation and documentation will be added as development progresses.*
+
+---
+
+## 📊 Other Data Projects
+
+### Customer Analytics Using RFM Strategy
+
+**Technologies:** PostgreSQL · SQL · Power BI
+
+- Analysed customer purchasing behaviour using Recency, Frequency and Monetary (RFM) metrics.
+- Grouped customers into segments to support customer retention analysis.
+- Created an interactive Power BI dashboard to explore customer segments.
+
+🔗 [View Repository](https://github.com/EricOdhiambo/Customers-Analytics-using-RFM-Strategy)
+
+### Data Jobs Market Skills Dashboard
+
+A data analytics project exploring job-market trends and technical skills in data-related roles.
+
+*Repository and project details to be added once the final project link and implementation are verified.*
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category      | Tools & Languages                                      |
-|---------------|--------------------------------------------------------|
-| **Languages** | SQL, Python                                            |
-| **BI & Viz**  | Power BI                                               |
-| **Data**      | PostgreSQL / MySQL / SQL Server, pandas, NumPy         |
-| **Tools**     | VS Code, Jupyter, Git/GitHub, Excel                    |
+| Category | Technologies |
+|---|---|
+| Programming & Querying | SQL, Python |
+| Databases | PostgreSQL, Google BigQuery |
+| Data Processing | Pandas |
+| Data Engineering | ETL, Data Transformation, Data Quality |
+| Analytics & Visualisation | Power BI |
+| Development Tools | VS Code, Jupyter Notebook |
+| Version Control | Git, GitHub |
+| Cloud | AWS – foundational learning |
 
 ---
 
-## 📈 What I’m looking for
+## 🎯 Career Goals
 
-- **Full‑time Data Analyst / Data Scientist / Data Engineer** roles  
-- Open to **12+ month contracts** with real analytics impact  
-- Prefer teams where I can:  
-  - Own dashboards and reports end‑to‑end  
-  - Work with stakeholders to define metrics  
-  - Grow into more advanced analytics and experimentation  
+I'm actively working towards opportunities in:
 
-If you’re hiring or working on interesting data problems in Kenya (or remote), I’d love to connect.
+- Junior Data Engineering
+- Graduate Data Engineering
+- Entry-Level ETL Development
+- Junior Analytics Engineering
+
+I'm particularly interested in building data pipelines, working with databases, improving data quality and developing reliable data-processing solutions.
+
+I'm open to opportunities in Kenya and remote opportunities internationally.
 
 ---
 
-## 📬 Let’s connect
+## 📬 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/erick-odhiambo-okite/)  
-- +254 792 487722
-- 📧 [erickpodhiambo@gmail.com]  
-<!-- 🌐 [Portfolio / Notion / Personal site](link) -->  
+- [LinkedIn](https://www.linkedin.com/in/erick-odhiambo-okite/)
+- [GitHub](https://github.com/EricOdhiambo)
+- Email: [erickpodhiambo@gmail.com](mailto:erickpodhiambo@gmail.com)
 
-Thanks for stopping by!
+Thanks for visiting my profile!
