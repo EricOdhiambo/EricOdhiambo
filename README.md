@@ -28,6 +28,9 @@ My background includes hands-on SQL practice, PostgreSQL database development an
 **Bachelor of Science in Computer Science**  
 Jomo Kenyatta University of Agriculture and Technology (2017–2022)
 
+**Oracle Cloud Infrastructure Foundations Associate**
+- Oracle Cloud Infrastructure foundational certification.
+
 **DataCamp – Associate Data Analyst in SQL learning track**
 - Completed the learning track.
 - Practised SQL querying, joins, aggregations, data cleaning and analytical techniques.
