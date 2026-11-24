@@ -1,6 +1,8 @@
 # Hi, I'm Erick Odhiambo 👋
 
-**IT Professional | Aspiring Data Engineer| Analytics Engineer | SQL · Python · PostgreSQL**
+**IT Professional | Aspiring Data Engineer| Analytics Engineer | Data Scientist** 
+
+**SQL · Python · PostgreSQL**
 
 📍 Nairobi, Kenya  
 📧 [erickpodhiambo@gmail.com](mailto:erickpodhiambo@gmail.com) · [LinkedIn](https://www.linkedin.com/in/erick-odhiambo-okite/)
