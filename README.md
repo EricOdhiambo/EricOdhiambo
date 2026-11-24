@@ -135,11 +135,12 @@ A data analytics project exploring job-market trends and technical skills in dat
 I'm actively working towards opportunities in:
 
 - Junior Data Engineering
+- Junior Data Scientist
+- - Junior Analytics Engineering
 - Graduate Data Engineering
 - Entry-Level ETL Development
-- Junior Analytics Engineering
 
-I'm particularly interested in building data pipelines, working with databases, improving data quality and developing reliable data-processing solutions.
+I'm particularly interested in building data pipelines, working with databases, improving data quality, developing reliable data-processing solutions, creating data insights, and making data-driven predictions.
 
 I'm open to opportunities in Kenya and remote opportunities internationally.
 
